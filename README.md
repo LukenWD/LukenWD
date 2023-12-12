@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**LukenWD/LukenWD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Experienced React Developer | Frontend Architect
+**About Me**
 
-Here are some ideas to get you started:
+Experienced React developer with a focus on crafting dynamic and performant web applications. Specializing in frontend development and user-centric design, I bring proficiency in React.js, JavaScript (ES6+), Redux, and responsive design. Collaborative and adaptable, I thrive in agile environments. Let's connect on [LinkedIn](https://www.linkedin.com/in/luka-vlahovic-657162281/). Check out my work on my personal website and feel free to schedule a call using my Calendly link.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
