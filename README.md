@@ -10,13 +10,7 @@ Fluent in English at a native level, combined with my experience in effectively 
 
 🛠 Skills
 
-REACT.JS  |
-TYPESCRIPT  |
-TAILWINDCSS |
-JAVASCRIPT (ES6+)  |
-HTML5, CSS3  |
-RESPONSIVE WEB DESIGN  |
-GIT, 
+
 
 
 
